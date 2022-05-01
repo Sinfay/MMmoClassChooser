@@ -1,0 +1,3 @@
+Sharpshooters are ranged attackers who use mechanical bows with special arrows that have custom effects.
+Their high survivability and agility keep them in the fight for the long haul,
+and their stealthy machinations are excellent for exploiting enemy weaknesses.
